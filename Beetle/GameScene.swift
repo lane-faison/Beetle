@@ -1,11 +1,3 @@
-//
-//  GameScene.swift
-//  Beetle
-//
-//  Created by Lane Faison on 10/8/17.
-//  Copyright © 2017 Lane Faison. All rights reserved.
-//
-
 import SpriteKit
 import GameplayKit
 
